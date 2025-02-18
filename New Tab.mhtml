@@ -1,0 +1,646 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: chrome://new-tab-page-third-party/
+Subject: New Tab
+Date: Wed, 12 Feb 2025 19:08:42 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--w7guiUq7qlzZEX7CcpW6ZePohngjBDbw0NAYicEMj2----"
+
+
+------MultipartBoundary--w7guiUq7qlzZEX7CcpW6ZePohngjBDbw0NAYicEMj2----
+Content-Type: text/html
+Content-ID: <frame-7247E76733882C18DED75485D5ABF03E@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome://new-tab-page-third-party/
+
+<!DOCTYPE html><html dir=3D"ltr" lang=3D"en" class=3D"focus-outline-visible=
+" style=3D"background-color: rgb(255, 255, 255); background-image: unset; -=
+-ntp-theme-text-color: rgba(0, 0, 0, 1.00);"><head><meta http-equiv=3D"Cont=
+ent-Type" content=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" t=
+ype=3D"text/css" href=3D"cid:css-fa3557c1-e205-404c-8dd9-8b75963413ae@mhtml=
+.blink" />
+   =20
+    <title>New Tab</title>
+   =20
+  </head>
+  <body>
+   =20
+    <cr-most-visited visible_=3D""><template shadowmode=3D"open"><!----><!-=
+-_html_template_start_-->
+<div id=3D"container" style=3D"--tile-background-color: rgba(219, 228, 230,=
+ 1.00); --column-count: 4; --row-count: 2;">
+  <!--?lit$540322708$--><!---->
+    <div class=3D"tile" draggable=3D"true" title=3D"NxtWave" data-index=3D"=
+0">
+      <a draggable=3D"false" href=3D"https://learning.ccbp.in/" aria-label=
+=3D"NxtWave">
+      </a>
+     =20
+      <cr-icon-button id=3D"removeButton" class=3D"icon-clear" tabindex=3D"=
+0" title=3D"Remove" data-index=3D"0" role=3D"button" aria-disabled=3D"false=
+"><template shadowmode=3D"open"><!---->
+<div id=3D"icon">
+  <div id=3D"maskedImage"></div>
+</div></template></cr-icon-button>
+      <div class=3D"tile-icon">
+        <img draggable=3D"false" alt=3D"" src=3D"chrome://favicon2/?size=3D=
+24&amp;scaleFactor=3D1x&amp;showFallbackMonogram=3D&amp;pageUrl=3Dhttps%3A%=
+2F%2Flearning.ccbp.in%2F">
+       =20
+      </div>
+      <div class=3D"tile-title title-ltr">
+        <span><!--?lit$540322708$-->NxtWave</span>
+      </div>
+    </div>
+  <!----><!---->
+    <div class=3D"tile" draggable=3D"true" title=3D"State Scholarship Porta=
+l" data-index=3D"1">
+      <a draggable=3D"false" href=3D"https://scholarship.odisha.gov.in/webs=
+ite/schemes-eligibility" aria-label=3D"State Scholarship Portal">
+      </a>
+     =20
+      <cr-icon-button id=3D"removeButton" class=3D"icon-clear" tabindex=3D"=
+0" title=3D"Remove" data-index=3D"1" role=3D"button" aria-disabled=3D"false=
+"><template shadowmode=3D"open"><!---->
+<div id=3D"icon">
+  <div id=3D"maskedImage"></div>
+</div></template></cr-icon-button>
+      <div class=3D"tile-icon">
+        <img draggable=3D"false" alt=3D"" src=3D"chrome://favicon2/?size=3D=
+24&amp;scaleFactor=3D1x&amp;showFallbackMonogram=3D&amp;pageUrl=3Dhttps%3A%=
+2F%2Fscholarship.odisha.gov.in%2Fwebsite%2Fschemes-eligibility">
+       =20
+      </div>
+      <div class=3D"tile-title title-ltr">
+        <span><!--?lit$540322708$-->State Scholarship Portal</span>
+      </div>
+    </div>
+  <!----><!---->
+    <div class=3D"tile" draggable=3D"true" title=3D"ChatGPT" data-index=3D"=
+2">
+      <a draggable=3D"false" href=3D"https://chatgpt.com/" aria-label=3D"Ch=
+atGPT">
+      </a>
+     =20
+      <cr-icon-button id=3D"removeButton" class=3D"icon-clear" tabindex=3D"=
+0" title=3D"Remove" data-index=3D"2" role=3D"button" aria-disabled=3D"false=
+"><template shadowmode=3D"open"><!---->
+<div id=3D"icon">
+  <div id=3D"maskedImage"></div>
+</div></template></cr-icon-button>
+      <div class=3D"tile-icon">
+        <img draggable=3D"false" alt=3D"" src=3D"chrome://favicon2/?size=3D=
+24&amp;scaleFactor=3D1x&amp;showFallbackMonogram=3D&amp;pageUrl=3Dhttps%3A%=
+2F%2Fchatgpt.com%2F">
+       =20
+      </div>
+      <div class=3D"tile-title title-ltr">
+        <span><!--?lit$540322708$-->ChatGPT</span>
+      </div>
+    </div>
+  <!----><!---->
+    <div class=3D"tile" draggable=3D"true" title=3D"YouTube" data-index=3D"=
+3">
+      <a draggable=3D"false" href=3D"https://www.youtube.com/" aria-label=
+=3D"YouTube">
+      </a>
+     =20
+      <cr-icon-button id=3D"removeButton" class=3D"icon-clear" tabindex=3D"=
+0" title=3D"Remove" data-index=3D"3" role=3D"button" aria-disabled=3D"false=
+"><template shadowmode=3D"open"><!---->
+<div id=3D"icon">
+  <div id=3D"maskedImage"></div>
+</div></template></cr-icon-button>
+      <div class=3D"tile-icon">
+        <img draggable=3D"false" alt=3D"" src=3D"chrome://favicon2/?size=3D=
+24&amp;scaleFactor=3D1x&amp;showFallbackMonogram=3D&amp;pageUrl=3Dhttps%3A%=
+2F%2Fwww.youtube.com%2F">
+       =20
+      </div>
+      <div class=3D"tile-title title-ltr">
+        <span><!--?lit$540322708$-->YouTube</span>
+      </div>
+    </div>
+  <!----><!---->
+    <div class=3D"tile" draggable=3D"true" title=3D"Login" data-index=3D"4"=
+>
+      <a draggable=3D"false" href=3D"http://gietbbsrerp.in/" aria-label=3D"=
+Login">
+      </a>
+     =20
+      <cr-icon-button id=3D"removeButton" class=3D"icon-clear" tabindex=3D"=
+0" title=3D"Remove" data-index=3D"4" role=3D"button" aria-disabled=3D"false=
+"><template shadowmode=3D"open"><!---->
+<div id=3D"icon">
+  <div id=3D"maskedImage"></div>
+</div></template></cr-icon-button>
+      <div class=3D"tile-icon">
+        <img draggable=3D"false" alt=3D"" src=3D"chrome://favicon2/?size=3D=
+24&amp;scaleFactor=3D1x&amp;showFallbackMonogram=3D&amp;pageUrl=3Dhttp%3A%2=
+F%2Fgietbbsrerp.in%2F">
+       =20
+      </div>
+      <div class=3D"tile-title title-ltr">
+        <span><!--?lit$540322708$-->Login</span>
+      </div>
+    </div>
+  <!----><!---->
+    <div class=3D"tile" draggable=3D"true" title=3D"Inbox (121)" data-index=
+=3D"5">
+      <a draggable=3D"false" href=3D"https://accounts.google.com/b/0/AddMai=
+lService" aria-label=3D"Inbox (121)">
+      </a>
+     =20
+      <cr-icon-button id=3D"removeButton" class=3D"icon-clear" tabindex=3D"=
+0" title=3D"Remove" data-index=3D"5" role=3D"button" aria-disabled=3D"false=
+"><template shadowmode=3D"open"><!---->
+<div id=3D"icon">
+  <div id=3D"maskedImage"></div>
+</div></template></cr-icon-button>
+      <div class=3D"tile-icon">
+        <img draggable=3D"false" alt=3D"" src=3D"chrome://favicon2/?size=3D=
+24&amp;scaleFactor=3D1x&amp;showFallbackMonogram=3D&amp;pageUrl=3Dhttps%3A%=
+2F%2Faccounts.google.com%2Fb%2F0%2FAddMailService">
+       =20
+      </div>
+      <div class=3D"tile-title title-ltr">
+        <span><!--?lit$540322708$-->Inbox (121)</span>
+      </div>
+    </div>
+  <!----><!---->
+    <div class=3D"tile" draggable=3D"true" title=3D"STSC92412077010272" dat=
+a-index=3D"6">
+      <a draggable=3D"false" href=3D"https://scholarship.odisha.gov.in/webs=
+ite/home" aria-label=3D"STSC92412077010272">
+      </a>
+     =20
+      <cr-icon-button id=3D"removeButton" class=3D"icon-clear" tabindex=3D"=
+0" title=3D"Remove" data-index=3D"6" role=3D"button" aria-disabled=3D"false=
+"><template shadowmode=3D"open"><!---->
+<div id=3D"icon">
+  <div id=3D"maskedImage"></div>
+</div></template></cr-icon-button>
+      <div class=3D"tile-icon">
+        <img draggable=3D"false" alt=3D"" src=3D"chrome://favicon2/?size=3D=
+24&amp;scaleFactor=3D1x&amp;showFallbackMonogram=3D&amp;pageUrl=3Dhttps%3A%=
+2F%2Fscholarship.odisha.gov.in%2Fwebsite%2Fhome">
+       =20
+      </div>
+      <div class=3D"tile-title title-ltr">
+        <span><!--?lit$540322708$-->STSC92412077010272</span>
+      </div>
+    </div>
+  <!----><!---->
+    <div class=3D"tile" draggable=3D"true" title=3D"Sign in =E2=80=93 Googl=
+e accounts" data-index=3D"7">
+      <a draggable=3D"false" href=3D"https://accounts.google.com/v3/signin/=
+confirmidentifier?authuser=3D0&amp;continue=3Dhttps%3A%2F%2Faccounts.google=
+.com%2Fb%2F0%2FAddMailService&amp;followup=3Dhttps%3A%2F%2Faccounts.google.=
+com%2Fb%2F0%2FAddMailService&amp;ifkv=3DAeZLP98Daz3HoOEUytZA9MOJntXtjJwozIi=
+k2kEU9YEGhq2CliR73WX-pu3-dSCgiluYuSf8HAYGHA&amp;passive=3D1209600&amp;flowN=
+ame=3DGlifWebSignIn&amp;flowEntry=3DServiceLogin&amp;dsh=3DS942307873%3A173=
+6229708756197&amp;ddm=3D1" aria-label=3D"Sign in =E2=80=93 Google accounts"=
+>
+      </a>
+     =20
+      <cr-icon-button id=3D"removeButton" class=3D"icon-clear" tabindex=3D"=
+0" title=3D"Remove" data-index=3D"7" role=3D"button" aria-disabled=3D"false=
+"><template shadowmode=3D"open"><!---->
+<div id=3D"icon">
+  <div id=3D"maskedImage"></div>
+</div></template></cr-icon-button>
+      <div class=3D"tile-icon">
+        <img draggable=3D"false" alt=3D"" src=3D"chrome://favicon2/?size=3D=
+24&amp;scaleFactor=3D1x&amp;showFallbackMonogram=3D&amp;pageUrl=3Dhttps%3A%=
+2F%2Faccounts.google.com%2Fv3%2Fsignin%2Fconfirmidentifier%3Fauthuser%3D0%2=
+6continue%3Dhttps%253A%252F%252Faccounts.google.com%252Fb%252F0%252FAddMail=
+Service%26followup%3Dhttps%253A%252F%252Faccounts.google.com%252Fb%252F0%25=
+2FAddMailService%26ifkv%3DAeZLP98Daz3HoOEUytZA9MOJntXtjJwozIik2kEU9YEGhq2Cl=
+iR73WX-pu3-dSCgiluYuSf8HAYGHA%26passive%3D1209600%26flowName%3DGlifWebSignI=
+n%26flowEntry%3DServiceLogin%26dsh%3DS942307873%253A1736229708756197%26ddm%=
+3D1">
+       =20
+      </div>
+      <div class=3D"tile-title title-ltr">
+        <span><!--?lit$540322708$-->Sign in =E2=80=93 Google accounts</span=
+>
+      </div>
+    </div>
+  <!---->
+ =20
+  <cr-dialog id=3D"dialog"><template shadowmode=3D"open"><!---->
+<dialog id=3D"dialog" part=3D"dialog" aria-labelledby=3D"title">
+<!-- This wrapper is necessary, such that the "pulse" animation is not
+    erroneously played when the user clicks on the outer-most scrollbar. --=
+>
+  <div id=3D"content-wrapper" part=3D"wrapper">
+    <div class=3D"top-container">
+      <h2 id=3D"title" class=3D"title-container" tabindex=3D"-1">
+        <slot name=3D"title"></slot>
+      </h2>
+      <!--?lit$540322708$-->
+    </div>
+    <slot name=3D"header"></slot>
+    <div id=3D"cr-container-shadow-top" class=3D"cr-container-shadow"></div=
+><div class=3D"body-container" id=3D"container" show-bottom-shadow=3D"" par=
+t=3D"body-container"><div></div><div></div>
+      <slot name=3D"body"></slot>
+    <div></div><div></div></div><div id=3D"cr-container-shadow-bottom" clas=
+s=3D"cr-container-shadow"></div>
+    <slot name=3D"button-container"></slot>
+    <slot name=3D"footer"></slot>
+  </div>
+</dialog></template>
+    <div slot=3D"title"><!--?lit$540322708$--></div>
+    <div slot=3D"body" id=3D"dialogContent">
+      <cr-input id=3D"dialogInputName" spellcheck=3D"false" autofocus=3D"" =
+label=3D""><template shadowmode=3D"open"><!---->
+
+<div id=3D"row-container" part=3D"row-container">
+  <div id=3D"input-container">
+    <div id=3D"inner-input-container">
+      <div id=3D"hover-layer"></div>
+      <div id=3D"inner-input-content">
+        <slot name=3D"inline-prefix"></slot>
+        <input id=3D"input" part=3D"input" autocomplete=3D"off" autofocus=
+=3D"" tabindex=3D"0" type=3D"text" maxlength=3D"" minlength=3D"" inputmode=
+=3D"" aria-label=3D"" aria-invalid=3D"false">
+        <slot name=3D"inline-suffix"></slot>
+      </div>
+    </div>
+    <div id=3D"underline-base"></div>
+    <div id=3D"underline"></div>
+  </div>
+  <slot name=3D"suffix"></slot>
+</div>
+<div id=3D"error" aria-live=3D"assertive"><!--?lit$540322708$--></div></tem=
+plate></cr-input>
+      <cr-input id=3D"dialogInputUrl" spellcheck=3D"false" type=3D"url" lab=
+el=3D""><template shadowmode=3D"open"><!---->
+
+<div id=3D"row-container" part=3D"row-container">
+  <div id=3D"input-container">
+    <div id=3D"inner-input-container">
+      <div id=3D"hover-layer"></div>
+      <div id=3D"inner-input-content">
+        <slot name=3D"inline-prefix"></slot>
+        <input id=3D"input" part=3D"input" autocomplete=3D"off" tabindex=3D=
+"0" type=3D"url" maxlength=3D"" minlength=3D"" inputmode=3D"" aria-label=3D=
+"" aria-invalid=3D"false">
+        <slot name=3D"inline-suffix"></slot>
+      </div>
+    </div>
+    <div id=3D"underline-base"></div>
+    <div id=3D"underline"></div>
+  </div>
+  <slot name=3D"suffix"></slot>
+</div>
+<div id=3D"error" aria-live=3D"assertive"><!--?lit$540322708$--></div></tem=
+plate>
+      </cr-input>
+    </div>
+    <div slot=3D"button-container">
+      <cr-button class=3D"cancel-button" role=3D"button" tabindex=3D"0" ari=
+a-disabled=3D"false"><template shadowmode=3D"open"><!---->
+<div id=3D"background"></div>
+<slot id=3D"prefixIcon" name=3D"prefix-icon">
+</slot>
+<span id=3D"content"><slot></slot></span>
+<slot id=3D"suffixIcon" name=3D"suffix-icon">
+</slot>
+<div id=3D"hoverBackground" part=3D"hoverBackground"></div></template>
+        <!--?lit$540322708$-->
+      </cr-button>
+      <cr-button class=3D"action-button" disabled=3D"" role=3D"button" tabi=
+ndex=3D"-1" aria-disabled=3D"true"><template shadowmode=3D"open"><!---->
+<div id=3D"background"></div>
+<slot id=3D"prefixIcon" name=3D"prefix-icon">
+</slot>
+<span id=3D"content"><slot></slot></span>
+<slot id=3D"suffixIcon" name=3D"suffix-icon">
+</slot>
+<div id=3D"hoverBackground" part=3D"hoverBackground"></div></template>
+        <!--?lit$540322708$-->
+      </cr-button>
+    </div>
+  </cr-dialog>
+  <cr-action-menu id=3D"actionMenu"><template shadowmode=3D"open"><!---->
+<dialog id=3D"dialog" part=3D"dialog" role=3D"application">
+  <div id=3D"wrapper" class=3D"item-wrapper" role=3D"menu" tabindex=3D"-1">
+    <slot id=3D"contentNode"></slot>
+  </div>
+</dialog></template>
+    <button id=3D"actionMenuEdit" class=3D"dropdown-item" role=3D"menuitem"=
+>
+      <!--?lit$540322708$-->
+    </button>
+    <button id=3D"actionMenuRemove" class=3D"dropdown-item" role=3D"menuite=
+m">
+      <!--?lit$540322708$-->Remove
+    </button>
+  </cr-action-menu>
+</div>
+<cr-toast id=3D"toast" duration=3D"10000"><template shadowmode=3D"open"><!-=
+---><slot></slot></template>
+  <div><!--?lit$540322708$--></div>
+  <!--?lit$540322708$-->
+</cr-toast>
+<!--_html_template_end_--></template></cr-most-visited>
+   =20
+    <link rel=3D"stylesheet" href=3D"chrome://resources/css/text_defaults_m=
+d.css">
+ =20
+
+</body></html>
+------MultipartBoundary--w7guiUq7qlzZEX7CcpW6ZePohngjBDbw0NAYicEMj2----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome://resources/css/text_defaults_md.css
+
+@charset "utf-8";
+
+body { font-family: "Segoe UI", Tahoma, sans-serif; font-size: 81.25%; }
+
+button { font-family: "Segoe UI", Tahoma, sans-serif; }
+------MultipartBoundary--w7guiUq7qlzZEX7CcpW6ZePohngjBDbw0NAYicEMj2----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: chrome://favicon2/?size=24&scaleFactor=1x&showFallbackMonogram=&pageUrl=https%3A%2F%2Faccounts.google.com%2Fv3%2Fsignin%2Fconfirmidentifier%3Fauthuser%3D0%26continue%3Dhttps%253A%252F%252Faccounts.google.com%252Fb%252F0%252FAddMailService%26followup%3Dhttps%253A%252F%252Faccounts.google.com%252Fb%252F0%252FAddMailService%26ifkv%3DAeZLP98Daz3HoOEUytZA9MOJntXtjJwozIik2kEU9YEGhq2CliR73WX-pu3-dSCgiluYuSf8HAYGHA%26passive%3D1209600%26flowName%3DGlifWebSignIn%26flowEntry%3DServiceLogin%26dsh%3DS942307873%253A1736229708756197%26ddm%3D1
+
+iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAABTlJREFUSImF
+ll+MVVcVxn9rn33OLQx/h4EK2tAowRZmoNGiFCQ0YLUx8clEHyQGGm1L4kM1tY2JTXiRpCWNTWyi
+sVg1aqL4YGJI2rSgrWnFacQWZBoqSWOjMjDTKQzcO8P5s9fnw507TAHTlZycnb3P+tZea31rrWNc
+I5KCmfnMeiPwOUn3IK0XLDcQZuPAm2b2Yl3XLxRFceJa3RuKJJt5D0l6Vu4dfYB4Sp2U0k8lDc7F
++L/gTdN8XdK5HkAjySWprl1l2X3q2tPM2awh93OS9lxrpHdjMzOllB4JITwOUAOxrrz823CoX3lJ
+9chJ0sSYIcj6BxTXb6DYdre17rzLm6II+Qxg0zSP5Hl+oIdpvUXTNHuyLHsWyd0spLfepP3M09TH
+/ixZMIsRzHruotRg7sq3bLcFex4gX7chIQXMrK7r3UVR/EKSRTNTWZYbQggHQHKz0Ay/qkv7H8PP
+j2JLlhpTUyBBlvWuiYWA9S2w6oXDml60kHzdUIZZAkKe5wfKsvy7mf0jSsrc/VtmtqwBdOa0Jvc/
+Zj7xLrZ4Cd5uk9+2jtbmbWRr1oIZ6cxblMOvUJ98nda9X7S+B7+NXJgRMKuB5THGhyTdj6SNki4m
+yTU9lS48tFfnNt3uY5/frPPb79Clp59U6rS7iewlXFJzaVKd3/1azXsT3T333lEv/xfLshxC0qOS
+VLvk44e983ifj31hs0Y3DenSU/t7DFGqa3lKqqqkqmxUpS5KLamqk6pGqpM8uXxmW5IejpJ2mpky
+II393opPd6D/FNWpLcz/6jeQHFxYjBiQh1liAw4EiOF9rOxuImBnBK0HM1MtJv8qr8zyW9sUW24l
+GxjAvcZCxCQah98cq2n8KhKWQF2ClQ3ctSZq8JZggLn7YJRY3mWfi/K/wQDJCAs3IgmzgNRFaJL4
+0dGK6Upk4WrBNi4MaF8R9+8obPCWVs+ZFfG6irauAUmzgbhx7V+V/r5AHmFBS4Tu5WfVopnGgVUQ
+jNaHRT1pLTnqjGBmyB0sgkHMjL07C2rvBrknh1+vGb/cDeHieSYkmynKsQhhBFjplmOLN1vRHuFY
+vZzf/qvNd1e/x4p5S0hyIhkxg12fKeYkGaZK8dyJGhDJYfWA2YwDCiGcCmZ2BDAHSyu+pEPTq/Ro
+527+MHGRgyOHMAtkFmi8wd2pGme6bihrwI0fH73CO+86WTAGFmVauzKqW/YYcDQAzwGTEZSW7tCR
+hQ/YaNXWh4qbOHTmeZ44fpDLVYeYRUIIFDEwL4/E2PDz1/7N4eMFC28yLk+jbWuDfaTfRLeZXgSe
+t5lW8ZMQwn04/HPybe390z4bm75AXz6fdtXh9v6PsXXVJ7ht6UcxAu9c/g+vnj3OydEJlkzuormw
+hYFFDU/tmqfVyxxCNIeDAR40gLIsh/I8/6MZy5DZX86/oe8d+wFn22MsbS2yqeYKAHnokq5Rwt2Z
+X0Qmq45u7tzH97d/ha0fTwaZgHFgh5mNzLbrqqp253n+M5crEOz0hbf54Ylf8fLZYUGwPMRZugqR
+3KmVtGnFoH1z45f51M13IGUCmbt/Lcb4S0n2voFT1/V3YoxPAJCgtsaHz50IL599TW+Mn2ZsasIQ
+9M9fonX9a9i+8k7buuqT3pfNCz3euvvDWZY92cO8bmRK2jMz/ubMQ6lOjZep8rKpvE7N3Mbaa4ij
+TdPsBti3b9/cMuFGRgZTSgdTSh849FNK7ZTSM2VZrucGQ/+6LjD316Msyw1FUdwDfNbdB81s+cw3
+4yGEU8CRqqpebLVaJ6/V7cn/AIme2cAunDYyAAAAAElFTkSuQmCC
+
+------MultipartBoundary--w7guiUq7qlzZEX7CcpW6ZePohngjBDbw0NAYicEMj2----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: chrome://favicon2/?size=24&scaleFactor=1x&showFallbackMonogram=&pageUrl=https%3A%2F%2Fscholarship.odisha.gov.in%2Fwebsite%2Fhome
+
+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
+NgCX39fkfwDFT/SweC5uIwAAAABJRU5ErkJggg==
+
+------MultipartBoundary--w7guiUq7qlzZEX7CcpW6ZePohngjBDbw0NAYicEMj2----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: chrome://favicon2/?size=24&scaleFactor=1x&showFallbackMonogram=&pageUrl=https%3A%2F%2Faccounts.google.com%2Fb%2F0%2FAddMailService
+
+iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAABENJREFUSIm9
+lE+IlVUYxp/nPd93/zn3miZqlmZmo4gxYhNkuZgaNGwRhY6LNq3MirYpEcRdCc7GRWUQEQRiIbjQ
+XIQ6jmC40MGFkWAJ0vgnGHEaZ+Y63/2+c963xdx7509q6aJn8W3Od37POed93hf4v2QAq4AYwEdm
+GGhViNksxmzoIcA9LPzQoZl7miYRABCwnxYseGJuW2HVX5ldeePGjesGkID9p5MD5HaEu4fxVDwf
+K9NhXCbxJwAIAPQ9vWD945XS8by4/kWF+OTZZ5b1NOEPerLmGgHzfa6nsEhORjnXX1oox2tHsb5l
+ELO0o+zc2sSQmNmqgpMDf7z0/F7bsKFIwOweT2aAI2Bn0VMc/ei5vS7mAYKrNEGCNq6Ni7KjZZBD
+KKXGYDRJTH0SNKrkcrtqZT1yfWNHO4FgjX8bcCEQbnV3tK955dqRYi2/K3iLfGJeFWIpg3MoNQyM
+XvKa8zVnII0SKcDREEIk3DS3mD8x1NW5jYA2DQjoUFfntqLLncjH3DSahaBqVDAykIR33qgNA9qX
+bx/mQHsP5iS34SyYiQPNZNRrCGbLSpEcHO7u7B0A4gEgHu7u7C1FcjAYl93xIRAUBeFoFquPzyTL
+8e7Ia2ilaHDROn735OfomrMEXRe+YN6Pm/IxE5jU1UIGi8pR9PGK7hfXAkDJuS1j3psKglAkAJZH
+kLo6fJOsyb5NO+LR1KZiWsjGFFEZP274RAYXrsNbP3/GFTZBRc7MvBiJkcxbW+S2AMBI5k0A0EzU
+iPlick3b0DvWgRPJUlQqQFnqaBVZ6UgzlNJRvbhyC75684f6YGX5L21WpxNHAMEJUdOgNQ3qhAAR
+SGHZGS+z+Mv74xvrx9OlqEgKgcE3MiGTH4ORMAjmJGMYnrdCPnz5+w/itLa75CQpiERqFgSkgFSz
+UBCJSiIThczvfuf1Z3cOZmWZJykMgBkhjUxIMxc0wEgECgrZhMRSyOIzv/eOBe0BcaUSuUgBVUAr
+kYtAXBlLs+3u7IXeUMxCCUG8AgaCtBa6lW0QICZDpnDm4MUAWdx37tjNO8nm1OvRioiriLjU69Gb
+d5LNi09fOGaAFFRECSPZaPup5p+swfSEAyCNXiIjoP3oilafu3h136nzWyc07JnQsGffqfNbV5+7
+eLW/CxEB9UajkY0mnKHJYUeYzVqJ1BMAXkV/mLwXfLVv4NMZA+40AgBENGLa2c0M1iA2pqkIiMzM
+fGN2hYCocS8ap6DS7OTpkzaIqkB8g+0pBBv/RgCgQJIvIDbfFosDYIjs7kTcwBKgNcGzXoAAjCqx
+K8Z5kFCvUVSKEcbTpGWQJcl+N55rU7OKpsFIp6budvMGuL8MAEKdtwPDESiFAOsjyVio1ffPLDeA
+NT2/5i7dGlK0/0Z8vTN7APifeu+FGEvKBgwJqpfSmYvVqtxn26Or2qrXdE2l4R6J+zdNZz3s3kfX
+375MBwA5oKUrAAAAAElFTkSuQmCC
+
+------MultipartBoundary--w7guiUq7qlzZEX7CcpW6ZePohngjBDbw0NAYicEMj2----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: chrome://favicon2/?size=24&scaleFactor=1x&showFallbackMonogram=&pageUrl=http%3A%2F%2Fgietbbsrerp.in%2F
+
+iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAABMJJREFUSIlt
+lD1vHOcRx38z++zySJ5ISn6hAwtwYHWKkSbpXAUBUqaU0wVIFaRN6kAfQR8hcKMAAvIN0qRTZ8CM
+IDqxkUCgEImkeHc88l52Z/4pdk+mAT3Ag9vD7c3M/23gHeerr75+cHl5qfl8HpeXlzGbzbS50+n0
+5s3T09N49epVHh8f/03S6OHDhy7JASSZvXjx4s+j0QiAzDR313Q6/dm9e/d+/a7mN48kMlPz+Vwn
+Jye+v7//1+l0+tsnT5509+/ftwcPHgR6x1mvlmrbVpmpiFBEKrK/XUT/HKG2bbPrOs3n8zw6Omq7
+rtPJycljSdUGQZlOLtYa7fH35xNWIULwQXXtv/rpx8XMWK7WmszmZmZvpzYzEESGubvWq7XNrxbV
+/HLWtm37m6OjI5P0OzNbFDc1F4uOf/xrwqJLKjd+/mGyKZiZJukHtGy+m5m6CKsql1fFjr/5d2ma
+uhuPx188e/bsjaQ/FgkMY1QbW3XFKqBUAntbhKpyzIwbffrfwNwdJPv47l2apraDvTHKzG+/++7z
+x48f75UN3BQk4qpNZssOyTCDpq452BuDwPtGiggzcyHAhPQ9dRHJVlP79s7O9dOnTykb2CGRiBQI
+2wBgtV5zMZtDit3dbQC7XiwxMzNzpcIkywhRl8r39m5ZIyG8gquhAQKjF27gWAgDzMDNoRKY4Zig
+Ly5Iwy3FYAJLN1qgMiyn084K/eukesR1ZRS3t5z3vAulMAnZ4H8JhG/0zkwoFUDBDEO2AzjWI0j1
+E9cOvW5ikAcNQ4DRv2YgLMASmWFydyFZpAyJLtKugdJPaQhYR3KxCK7WA00b8SRkRhcBoC7CzF02
+aBUKS4m6LnKvMDNK5RwcHFgx9Qgivxe6n9v60dOwqmI+u+T0akZVmUWIzLDT0zPu3LkDiOvFmu3x
+vt379MeqrHB2PslHjx4tigabbYqLIUgCmYEJw1it14zHu+zdGpOZdG0LSsbjMWCMtlYslivOX//P
+p6WouD798su//KlIQw5I4kajHBTMjaBmdF3H2fk5CA4PD/nJZx/Rtl2fETfMIUIeEfn+e7c/ODs7
++6IwFOtSZEIbohtok0RipBlSH6LRVkOmmExnXEymvYWGkAqjMlMqrVRFy+XqomwclAMKKSENMawG
+gcnITN5/7za3D/Zpo0N5w8K64TYwSdoajezly5NSkEGKyCQ0IOn/1zdJoUwig6ZpGG01eFeGRaih
+sFDaENjeHHVTUzVb9BTJhhUBMewlUsiFuVM3NXWpMTcwxx2WyxXL1eoHdo4QO7u7lKoAhptTNq7s
+EcBO7dQVyHoYo62G8Xibdr2i8qpPvKDrOtycNMgI2sjeLCnSRQ6sFA3FV524bDtCsGydtg1kvSaR
+hfVqRY4aNrsrJdquQwNVJqNtWyIS894wClES7350sMPvP/+ENpI2xYd1x2QyocveG3VVePPmnP39
+sbube3qOx7eI7HdUDjsrh8UkSWCVuavgXrZo+cUn24Bh6m3aJm/zUUrNuu2INlgs1kR0noIIDYUZ
+qBPK/jlHYrFclnL8/J+/fPn6danctV6nAVQF6GD4oNlp9OrkpBwefvSH3d3x3chuFWkuSak05P2G
+d5R9aFSVqvrvf759/n/rRt7AUqjmjAAAAABJRU5ErkJggg==
+
+------MultipartBoundary--w7guiUq7qlzZEX7CcpW6ZePohngjBDbw0NAYicEMj2----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: chrome://favicon2/?size=24&scaleFactor=1x&showFallbackMonogram=&pageUrl=https%3A%2F%2Fwww.youtube.com%2F
+
+iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAvZJREFUSIm9
+lc9rVFcUxz/nvDe/EhKjTRNiRbAbzUKK2bkq8S8oFAJS6c6VuOqm0E0QBFcB3XUdRBe1kK6yiCju
+Ai5C0GJBpGDThKajI2Yyk3nz7nFx75t5k8xEBPXAl/fm3TPnnh/fcw58ZhEDmQe1D0DQFwPBo1fC
+YfyxvDSI5kHpuc1MmJsb/vXFi5EzSVKeECmcUY1JU6Vcjohjod22jq6IsbfXxrl0LYrSGiR/FgrN
+K1NTdZaWdhAxQATgBzjxSxz/VCwUzo1E0XhJdTSGoWGREmYxECFimIl3EP8UaZtZ8hYSg92Gc293
+zarWav31W5Lc/Bmech0mn8FDA/uYeAnP7sHX+g18fxq+BZoGCZAaOPIQMVQteJ+HA5x1kRq0DZon
+4HQEc3EZzgelgkAEWChMvj4ehKxm70EnRxujyyb3JczoFJykSy+jH9Wmp2F2tntZFA0iUI+No3BS
+x+CLTrX3G86+njoFKytw4wZMTkKa+jM5SPm8rXE4xkv428BSn6beYqn654UL1pH1dbOLF99XZGdg
+VdhQCV6rD21fx+zLe6sFZ8/C4iIsL8PMzKBUZbaKqoNUDpMoguPHYXR0kPUsdxK3w5sDGXiZmY+i
+WITNTVhYgFu3fER9JLPuoB0r7NJN0cEim0Gp5H8vLsK1a/D8ee/5wQgQb7Me16GaZVv2X+Kcf25t
+waVLcPt2N0XO9TUe+sgAXkON+3DHIHW+AzsMGIiMWYewJ3Rzugp/aAMe+2hIDNJc33ZHQn5UOHdg
+ZOT1M2cB3YZ13YZ7/8ATgXIYFRpaSDrzxszhXO988rCQkkxfBSKF0v/wL3A3WoLaNDwagqM7qkVE
+JBWJTSSKQVBVRHoBGr4LIHuqNFVbdZE3/4lsvIIHq3D1O1jLzyB+rFS+uuzc8ESlUhk7cmRoYmys
+TLlcoFSKwwLJaOsXTrPZpl5PqrVao7qz09xuNJq/q+4uNBobIUJPmLBT+08wMzkU/f4SdnW/gw9e
++P2Wf19HP5W8A1bR2lgqa2jDAAAAAElFTkSuQmCC
+
+------MultipartBoundary--w7guiUq7qlzZEX7CcpW6ZePohngjBDbw0NAYicEMj2----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: chrome://favicon2/?size=24&scaleFactor=1x&showFallbackMonogram=&pageUrl=https%3A%2F%2Fchatgpt.com%2F
+
+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
++D8Qh2AO+tYXGQAAAABJRU5ErkJggg==
+
+------MultipartBoundary--w7guiUq7qlzZEX7CcpW6ZePohngjBDbw0NAYicEMj2----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: chrome://favicon2/?size=24&scaleFactor=1x&showFallbackMonogram=&pageUrl=https%3A%2F%2Fscholarship.odisha.gov.in%2Fwebsite%2Fschemes-eligibility
+
+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
+NgCX39fkfwDFT/SweC5uIwAAAABJRU5ErkJggg==
+
+------MultipartBoundary--w7guiUq7qlzZEX7CcpW6ZePohngjBDbw0NAYicEMj2----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: chrome://favicon2/?size=24&scaleFactor=1x&showFallbackMonogram=&pageUrl=https%3A%2F%2Flearning.ccbp.in%2F
+
+iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAIAAABvFaqvAAAAAXNSR0IArs4c6QAAA7JJREFUOI21
+VFtsVFUUXfvcO+30LVNsodSSobW2Qqu1on40NBoJkUTRiEKCigarEaI2oZL4odGGmOAjkajgI/zI
+4wtJK0ijBBHTqEUbUmwQal9TC9NOS5nO7e087py9/bhtLfWv1v1xcvbZOWvvs87ei0QEC2HmvIGI
+SESIaMqdN5AA9H9UZAoEAoA0s6EIAAsgTKSIwCIEclOJiFJEBAiIaE5+YmYRIQKREhZSAig3lkxq
+0zTmPIgZM7QAN1QEAAnN3aNRvy8l5vDIhBMfG/bfsjQrM/3SsBVLaDtBGV7TmnSKb/YuyU5hgSKA
+IDwbSMRQyraj1W+2fvx05ZIc85Ofx/2BY5FYsn7HS5s+PLtr012Hfhr5bSBcnp+1Z2NxwU2pTpIN
+k1gIkGmKCVozs4xEbF9dU/kbbY0tPev2ng+PR6oeefGhhk8PfN8lIu19YyW7Wtp6rmnNTjKpWQuz
+ZnZpERERViAAYieorCR/7Z25e5r7PE4kJzsrPc0bHr++ankuAG9qSkpOfro3VSlyv0YENLVxjZTI
+FHl9YbXz/oIVizOua+9b7+0Hc/2zT65rPNUbmjAVBcPRxEwNLEmttZZpTwQCNzoRSxzrGLZjzoWr
+keOdoZOnWweHRkSk6XywJ2Q5LN9eCl+zYvIv09oFYGJmIVFCIGgthqEAWJPRvQeOvrz1MZIkK3M8
+YhmiCwsLrwyFxsLW4txF7b93gVDqLyxdvkwzK1LEmgUgAhFBpOPPwLI833c/tm3b/vYf577atr2x
+oqK0tvbuhne+6Dz52VMN7xbk+axo9K+roxlpqYFgqPXIBxlpXiIoIRAhGovv3n8kknBeff39fYeP
+2/Hkc3VPjI1boVj8167+itv8WTmZh06c6eoL1G1eHxqL7Hz+8TXVKy07Fos7SimAFAm01ikez4XL
+/Zu3vrZ6dWVwaPTzg80b1z9wuOk0oANXhs780rFjy8Mv1O8uK8qvLPVP2FFDqfDEJGimH6GERASm
+abzyzKMtJ37YsuFBf55voCuQuyj76Ddna6pX1txRtu/g12vuqfR5zA1ra9x5+ujL5ovdgVSP6fF4
+hPmfWQNRPJHo7B2sKC6y7cnRsOXLzrjY3V97bxWAU63t91WVdw8ES4qWZqan9Q4Gz3VcVkS331q0
+qnSFaE1ExKyB6em7URkAOI5DpEzTmDlnZqXUrCEWV5ZIhJnFlSnNbCgFgIUVqZk77sZdicjtSxAI
+ZCgSV5yYBVgA2TaJ5mjmfIH+i2zPtoVBAfA3C6VHr1GJx00AAAAASUVORK5CYII=
+
+------MultipartBoundary--w7guiUq7qlzZEX7CcpW6ZePohngjBDbw0NAYicEMj2----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-fa3557c1-e205-404c-8dd9-8b75963413ae@mhtml.blink
+
+@charset "utf-8";
+
+html { --ntp-focus-shadow-color: rgba(var(--google-blue-600-rgb), .4); --nt=
+p-theme-text-color: var(--google-grey-800); background-attachment: fixed; b=
+ackground-color: rgb(255, 255, 255); background-position: -64px center; bac=
+kground-repeat: no-repeat; height: 100%; overflow: auto; }
+
+@media (prefers-color-scheme: dark) {
+  html { --ntp-focus-shadow-color: rgba(var(--google-blue-300-rgb), .5); --=
+ntp-theme-text-color: white; }
+}
+
+html[has-custom-background] { background-image: image-set(url("chrome://the=
+me/IDR_THEME_NTP_BACKGROUND?user_color_theme_id") 1x, url("chrome://theme/I=
+DR_THEME_NTP_BACKGROUND@2x?user_color_theme_id") 2x); }
+
+body { align-items: center; display: flex; height: 100vh; justify-content: =
+center; margin: 0px; }
+
+cr-most-visited { --most-visited-focus-shadow: 0 0 0 2px var(--ntp-focus-sh=
+adow-color); --most-visited-text-color: var(--ntp-theme-text-color); --most=
+-visited-text-shadow: none; }
+
+html[has-custom-background] cr-most-visited { --most-visited-text-shadow: 0=
+ 0 16px rgba(0, 0, 0, .3); }
+------MultipartBoundary--w7guiUq7qlzZEX7CcpW6ZePohngjBDbw0NAYicEMj2------
